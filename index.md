@@ -47,7 +47,7 @@ hanser
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src="/8bd223a51fe8aa43ff2e3586b9f0843699fb1feb.jpg" width="100%")
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
